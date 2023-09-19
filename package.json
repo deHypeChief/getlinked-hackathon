@@ -1,0 +1,13 @@
+{
+  "name": "getlinked-hackaton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"pnpm -C ./client run dev --host",
+    "build":"pnpm -C ./client run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
